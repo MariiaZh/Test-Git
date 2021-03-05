@@ -1,8 +1,10 @@
 input {
 
     margin: 20px;
-    background-color: aqua;
+    background-color: white;
+    font-size: medium;
     font-weight: bold;
     padding: 10px;
     border-radius: 15px;
 }
+
