@@ -1,0 +1,7 @@
+div {
+    width: 240px;
+    height: 180px;
+    background-color: beige;
+    margin: 20px 0px 0px 20px;
+    border: 4px double black;
+}
